@@ -6,7 +6,7 @@ In this project, I combined my passion for robotics and magic to create **Naboul
 
 The project is organized into the following directories and files:
 
-├── ColorSensor_Code/ ├── CSV-files/ ├── HallEffect_Code/ ├── MCE project.docx ├── MCE project.pptx ├── SpeechRecognition_Code/ ├── Trick1_Code/ ├── Trick2_Code/ ├── Trick2_CodeTake2/ ├── Trick3_Code/ └── Trick3_Code_BasByezbat/
+📂 ColorSensor_Code/ 📂 CSV-files/ 📂 HallEffect_Code/ 📄 MCE project.docx 📄 MCE project.pptx 📂 SpeechRecognition_Code/ 📂 Trick1_Code/ 📂 Trick2_Code/ 📂 Trick2_CodeTake2/ 📂 Trick3_Code/ 📂 Trick3_Code_BasByezbat/
 
 
 ### Directory Overview:
