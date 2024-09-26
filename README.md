@@ -1,6 +1,7 @@
 # Naboul the Magic Robot
 
 In this project, I combined my passion for robotics and magic to create **Naboul**, a robot that performs three interactive magic tricks. Naboul uses speech recognition to listen, speak, and engage with the audience, delivering a captivating experience. The project involved building the robot from scratch, designing its structure with materials like cardboard, wood, and metal hinges, and engineering magic mechanisms powered by sensors and actuators.
+![Nabboul](Project_FinalVersion/Nabboul.jpeg)
 
 ## Project Structure
 
